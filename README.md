@@ -9,5 +9,6 @@ All my datases are taken from [Kaggle](https://www.kaggle.com/melaneemelanee).
 ![facebook](https://user-images.githubusercontent.com/74653444/192135328-3712dcf6-d891-4314-b889-4d651a40b0cc.png)
 
 
+![netflix(1)](https://user-images.githubusercontent.com/74653444/192135659-3780d0d7-19f0-49f4-a12a-c975d1f63746.png)
 
 
