@@ -1,7 +1,7 @@
 # Startups
 My current projects to analayze data for startup companies like Digikala, Facebook and so on.
 
-All my datases are taken from [Kaggle](https://www.kaggle.com/melaneemelanee).
+All my datasets are taken from [Kaggle](https://www.kaggle.com/melaneemelanee).
 
 ![index](https://user-images.githubusercontent.com/74653444/192135321-2b01c689-6bac-4c27-8c32-2fb4eb81b93f.png)
 
