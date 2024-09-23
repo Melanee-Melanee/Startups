@@ -1,5 +1,5 @@
 # Startups
-My current projects to analayze data for startup companies like Digikala, Facebook and Netflix.
+My data analysis projects for startup companies like Digikala, Facebook and Netflix.
 
 All my datasets are taken from [Kaggle](https://www.kaggle.com/melaneemelanee).
 
